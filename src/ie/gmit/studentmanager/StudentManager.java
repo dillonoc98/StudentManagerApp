@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
-public class StudentManager implements Serializable {
+public class StudentManager  {
 
 	// Create an ArrayList to hold the student objects
 	List<Student> students;

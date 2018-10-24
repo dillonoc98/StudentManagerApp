@@ -3,7 +3,7 @@ package ie.gmit.studentmanager;
 import java.io.Serializable;
 import java.util.*; // For Date obj
 
-public class Student implements Serializable{
+public class Student {
     private String studentId;
     private String firstName;
     private String surname;

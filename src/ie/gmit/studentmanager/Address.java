@@ -2,7 +2,7 @@ package ie.gmit.studentmanager;
 
 import java.io.Serializable;
 
-public class Address implements Serializable{
+public class Address {
 	private int houseNumber;
 	private String street;
 	private String county;
