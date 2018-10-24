@@ -1,6 +1,6 @@
 package ie.gmit.studentmanager;
 
-import java.io.Serializable;
+import java.io.*;
 
 public class Course {
 	private String code;
